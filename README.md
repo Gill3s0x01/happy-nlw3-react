@@ -59,7 +59,7 @@
 
 ### Web Screenshot
 <div>
-   <img src="./Public/web-landing.png" width="600px">
+   <img src="./Public/web-landing.png" width="1050px">
 </div>
 
 ### Mobile Screenshot
