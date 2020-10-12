@@ -29,7 +29,7 @@
  </p>
 
 <div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
+  <sub>The NLW #3 project. Built with ❤︎ by
     <a href="https://github.com/Gilles30">Lorison Gilles</a> and
     <a href="https://github.com/Gilles30/happy-nlw3-react/">
       contributors
@@ -59,7 +59,7 @@
 
 ### Web Screenshot
 <div>
-   <img src="./Public/web-landing.png" width="400px">
+   <img src="./Public/web-landing.png" width="600px">
 </div>
 
 ### Mobile Screenshot
