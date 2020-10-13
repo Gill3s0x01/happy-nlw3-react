@@ -1,4 +1,4 @@
-🚧 NextLevelWeek 3.0 🚀 In progress...🚧
+<p align="center"> 🚧 NextLevelWeek 3.0 🚀 In progress...🚧 </p>
 
 <p align="center">
    <img src="./Public/logo-apresentacao.png" alt="Happy" width="580"/>
