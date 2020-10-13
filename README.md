@@ -1,3 +1,5 @@
+🚧 NextLevelWeek 3.0 🚀 In progress...🚧
+
 <p align="center">
    <img src="./Public/logo-apresentacao.png" alt="Happy" width="580"/>
 </p>
@@ -94,6 +96,8 @@ $ git clone https://github.com/Gilles30/happy-nlw3-react.git
 ```
 ### 📦 Run API
 
+🚧 ...Under construction.. 🚧
+
 ```bash
 # Go to server folder
 $ cd Happy/server
@@ -125,6 +129,7 @@ $ yarn start
 Go to http://localhost:3000/ to see the result.
 
 ### 📱 Run Mobile Project
+🚧 ...Under construction.. 🚧
 To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
