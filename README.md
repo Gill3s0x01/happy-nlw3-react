@@ -22,7 +22,7 @@
   </a>
 </p>
 
-> :rocket: Project made to connect teachers to students, made in Next Level Week #3 @Rocketseat
+> <p align="center"> :rocket: Project made to connect teachers to students, made in Next Level Week #3 @Rocketseat </p>
 
 <p align="center">
     <a href="README.md">English</a>
@@ -61,7 +61,7 @@
 
 ### Web Screenshot
 <div>
-   <img src="./Public/web-landing.png" width="400px">
+   <img src="./Public/web-landing.png" width="1050px">
 </div>
 
 ### Mobile Screenshot
@@ -71,9 +71,9 @@
 
 # :eyes: Demo Website
 You can acess the website at:     
-👉  demo: 
+👉  demo: https://happy-orphanage.vercel.app/ - https://www.youtube.com/watch?v=_zytBwnL6xE
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://www.youtube.com/watch?v=ptABXX-Amm4)      
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://happy-orphanage.vercel.app/)      
 
 
 # :computer: Technologies
@@ -95,6 +95,8 @@ This project was made using the follow technologies:
 $ git clone https://github.com/Gilles30/happy-nlw3-react.git
 ```
 ### 📦 Run API
+
+🚧 ...Under construction.. 🚧
 
 ```bash
 # Go to server folder
