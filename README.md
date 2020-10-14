@@ -1,3 +1,5 @@
+<p align="center"> 🚧 NextLevelWeek 3.0 🚀 In progress...🚧 </p>
+
 <p align="center">
    <img src="./Public/logo-apresentacao.png" alt="Happy" width="580"/>
 </p>
@@ -29,7 +31,7 @@
  </p>
 
 <div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
+  <sub>The NLW #3 project. Built with ❤︎ by
     <a href="https://github.com/Gilles30">Lorison Gilles</a> and
     <a href="https://github.com/Gilles30/happy-nlw3-react/">
       contributors
@@ -99,7 +101,10 @@ $ git clone https://github.com/Gilles30/happy-nlw3-react.git
 $ cd Happy/server
 
 # Install Dependencies
-$ yarn install
+$ yarn install or $ yarn 
+
+# Create Database
+$ yarn typeorm migration:run
 
 # Run Aplication
 $ yarn start
@@ -125,6 +130,7 @@ $ yarn start
 Go to http://localhost:3000/ to see the result.
 
 ### 📱 Run Mobile Project
+🚧 ...Under construction.. 🚧
 To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
