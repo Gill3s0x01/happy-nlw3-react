@@ -96,8 +96,6 @@ $ git clone https://github.com/Gilles30/happy-nlw3-react.git
 ```
 ### 📦 Run API
 
-🚧 ...Under construction.. 🚧
-
 ```bash
 # Go to server folder
 $ cd Happy/server
